@@ -58,7 +58,7 @@
   }
   .height{
     @apply h-80;
-    @apply max-sm:h-40;
+    @apply max-sm:h-20;
   }
   .info-text {
     @apply font-montserrat text-slate-gray text-lg leading-7;
